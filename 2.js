@@ -3,7 +3,6 @@
 
 var read = require('readline-sync')
 
-var firstInput = read.question("type two numbers ")
-var secondInput = read.question()
-
+firstInput = parseInt(read.question("type two numbers ")) 
+secondInput = parseFloat(read.question()) 
 console.log(firstInput+secondInput)
