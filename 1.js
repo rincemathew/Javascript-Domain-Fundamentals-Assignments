@@ -5,7 +5,7 @@ var read = require('readline-sync');
 var character = read.question('type a char  ');
 
 if (character.length == 1) {
-  console.log(character)
+  console.log(character+ " its a character")
 } else {
   console.log('not a character')
 }
