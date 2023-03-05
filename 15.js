@@ -1,0 +1,1 @@
+// Write a program to accept an array and display it on the console using functions

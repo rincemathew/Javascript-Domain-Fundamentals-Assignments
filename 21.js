@@ -1,0 +1,1 @@
+// Write a program to multiply the adjacent values of an array and store it in an another array
