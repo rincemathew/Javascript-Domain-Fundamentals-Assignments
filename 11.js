@@ -12,6 +12,4 @@ for(i= 0; i< count; i++){
 
 array = array.filter((value,index)=>{return value%2==0})
 
-
-
 console.log(array.length)
